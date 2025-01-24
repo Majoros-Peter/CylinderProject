@@ -11,6 +11,9 @@ namespace CylinderProject.Models
 
         private double _radius, _height;
 
+        public double Radius => _radius;
+        public double Height => _height;
+
         public Cylinder(double radius, double height)
         {
             if (radius <= 0)

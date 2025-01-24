@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Feladat.txt = Feladat.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CylinderTest", "CylinderTest\CylinderTest.csproj", "{67C4E025-9FCD-4B46-A9F8-A024476CD498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{AA8BB2DA-5867-43E0-9A19-196DE5C0B646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA8BB2DA-5867-43E0-9A19-196DE5C0B646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA8BB2DA-5867-43E0-9A19-196DE5C0B646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C4E025-9FCD-4B46-A9F8-A024476CD498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C4E025-9FCD-4B46-A9F8-A024476CD498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C4E025-9FCD-4B46-A9F8-A024476CD498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C4E025-9FCD-4B46-A9F8-A024476CD498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
